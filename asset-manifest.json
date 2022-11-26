@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Clone/static/css/main.1b06f14e.css",
+    "main.js": "/Clone/static/js/main.32875f8e.js",
+    "static/js/787.ab9d2ab8.chunk.js": "/Clone/static/js/787.ab9d2ab8.chunk.js",
+    "static/media/salesLiger.png": "/Clone/static/media/salesLiger.7039b2b494096cffecd5.png",
+    "static/media/videoscreen.png": "/Clone/static/media/videoscreen.b599c93b8938cb272bf1.png",
+    "static/media/about_sc.png": "/Clone/static/media/about_sc.bd98aaca913d01b98b05.022a49ec9d004457c6c3.png",
+    "static/media/kysoHero.png": "/Clone/static/media/kysoHero.917b5f9833c3c0fe76cf.png",
+    "static/media/pic-3.png": "/Clone/static/media/pic-3.8138c10545d12aefa6fb.png",
+    "static/media/pic-2.png": "/Clone/static/media/pic-2.274d6ccaa56697afc5e0.png",
+    "static/media/pic-5.png": "/Clone/static/media/pic-5.c77d68c3efa4917d1406.png",
+    "static/media/pic-4.png": "/Clone/static/media/pic-4.54d6603876865a8f2629.png",
+    "static/media/backdropBlack.jpg": "/Clone/static/media/backdropBlack.c22e7ff2b484485364a5.8467b7fe0178c83a40dc.jpg",
+    "static/media/accounting.svg": "/Clone/static/media/accounting.ce8851c2bbd557d5bc3d13a4ff974344.svg",
+    "index.html": "/Clone/index.html",
+    "main.1b06f14e.css.map": "/Clone/static/css/main.1b06f14e.css.map",
+    "main.32875f8e.js.map": "/Clone/static/js/main.32875f8e.js.map",
+    "787.ab9d2ab8.chunk.js.map": "/Clone/static/js/787.ab9d2ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b06f14e.css",
+    "static/js/main.32875f8e.js"
+  ]
+}

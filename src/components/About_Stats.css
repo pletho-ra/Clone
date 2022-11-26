@@ -1,0 +1,61 @@
+.about-stats{
+    background-color: #f7f7f7;
+    padding-top: 150px;
+    padding-bottom: 60px;
+    background-image: url('../assets/about_sc.bd98aaca913d01b98b05.png');
+    background-repeat: no-repeat;
+    background-size:29%;
+    background-position:90% 40%;
+    position:relative;
+    z-index: 99;
+}
+.about-stats_items{
+    display: flex;
+    flex-wrap:wrap;
+    margin-bottom: 65px;
+}
+.about-stats_item{
+    flex: 1;
+}
+.about-stats_item{
+    max-width:33%;
+}
+.about-stats_item >h2{
+    letter-spacing:-1.3px;
+    line-height:58px;
+    margin-bottom:30px;
+    font-weight:800;
+    font-size:32px;
+    font-family: Circular Std Black, sans-serif;
+}
+.about-stats--number{
+    font-size: 82px;
+    font-weight: 900;
+}
+.about-stats_item:last-child p{
+    padding-right: 20%;
+}
+.about-stats_item > p{
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing:-.2px;
+    line-height: 35px;
+}
+/* ==========BreakPoints======= */
+@media screen and (max-width:768px) {
+    .about-stats{
+        padding-top: 65%;
+        padding-bottom: 20px;
+        background-position: center 50px;
+        background-size: 50%;
+    }
+    .about-stats_items{
+        margin-left: 0;
+        max-width:100%;
+        margin-bottom: 35px;
+    }
+    .about-stats_item{
+        flex: 100%;
+        max-width:100%;
+    }
+}
